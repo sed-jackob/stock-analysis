@@ -1,12 +1,13 @@
 # stock-analysis
 ## Overview of Project
-The objective of this project is to **refactor** the existing VBA code created in *module 2* in order to run faster and more efficient. Once completed, the script will help Steve analyse the performance of *12* stocks for *2017* and *2018*. 
+The objective of this project is to **refactor** the existing VBA code created in *module 2* in order to run faster and more efficient. Once completed, the script will help #Steve# analyse the performance of *12* stocks for *2017* and *2018*. 
 
 The results of his analysis will assist him to advise his parents with a good stock to invest in.
 
 ## Results
 ### Stock Performance Comparison
 Looking at both tables below, we can conclude that ***ENPH*** and ***RUN*** are both good stocks to invest in since their return was positive in both years.
+
 ![Time Analysis for 2017](./Resources/VBA_Challenge_2017_Returns.png)
 
 ![Time Analysis for 2018](./Resources/VBA_Challenge_2018_Returns.png)
