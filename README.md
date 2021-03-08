@@ -44,7 +44,9 @@ Disadvantages can be:
 
 References:
 [AnAr](https://anarsolutions.com/code-refactoring-concept-analysis/)
+
 [Stack Overflow](https://stackoverflow.com/questions/43983284/what-are-the-advantages-and-disadvantages-of-refactoring-code-smell-in-software)
+
 [C# Corner](https://www.c-sharpcorner.com/article/pros-and-cons-of-code-refactoring/)
 
 
