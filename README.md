@@ -51,6 +51,13 @@ References:
 
 ### How do these pros and cons apply to refactoring the original VBA script?
 
+#### PROS
+The code runs much faster now as illustrated above. This performance improvement is a result of using one ***FOR*** loop to read and store data from the sheet vs. the nested loop used in the original script. 
+Another advantage is: The code now is well structured and commented, which makes it easier for others to read and understand.
+
+#### CONS
+It was time consuming to write the refactored code. In real life, time is **MONEY**.
+
 ---
 
 ![Saeed Al-Yacoubi](./Resources/qr-code.png)
